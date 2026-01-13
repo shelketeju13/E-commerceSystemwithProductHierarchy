@@ -1,0 +1,13 @@
+Product Catalog Data
+Format:
+
+ProductType, ID, Name, Price, Stock, Attribute
+
+Electronics,E001,Smartphone X,50000,10,TechBrand,24
+Electronics,E002,Laptop Pro,75000,5,CompTech,12
+
+Clothing,C001,T-Shirt,1200,20,M
+Clothing,C002,Jeans,2200,15,L
+
+Book,B001,Java Basics,800,30,James Gosling
+Book,B002,Data Structures in Java,950,25,Mark Allen Weiss
